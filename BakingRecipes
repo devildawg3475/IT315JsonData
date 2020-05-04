@@ -2,57 +2,10 @@
 "BakingRecipes":
 [
 
-{ 
-  "DessertName":"Derby Day Chocolate Chip Cookies",
-  "DessertDifficulty":"Easy",
-  "DessertImage":"https://github.com/devildawg3475/IT315JsonData/blob/master/Images/DerbyChocolateChipCookies.png",
-  "DessertMakes":"5 dozen",
-  "DessertID":1,
-  "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/106546/derby-day-chocolate-chip-cookies/",
-  "DessertTotalTime":"30 minutes",
-  "DessertPrepTime":"20 minutes",
-  "DessertBakeTime":"10 minutes",
-  "DessertNotes":"Simple and tasty treat."
-  },
-
-{
-  "DessertName":"Mrs.Sigg's Snickerdoodles",
-  "DessertDifficulty":"Intermediate",
-  "DessertImage":"Images/SnickerdoodleCookies.png",
-  "DessertMakes":"4 dozen",
-  "DessertID":2,
-  "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/10687/mrs-siggs-snickerdoodles/",
-  "DessertTotalTime":"1 hour",
-  "DessertPrepTime":"20 minutes",
-  "DessertBakeTime":"10 minutes",
-  "DessertNotes":"Allow for extra time."
-  },
-  
-{
-  "DessertName":"Best Oatmeal Cookies",
-  "DessertDifficulty":"Intermediate",
-  "DessertImage":"Images/OatmealCookies.png",
-  "DessertMakes":"3 dozen",
-  "DessertID":3,
-  "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/16677/the-best-oatmeal-cookies/",
-  "DessertTotalTime":"1.5 hours"
-  "DessertPrepTime":"15 minutes",
-  "DessertBakeTime":"12 minutes",
-  "DessertNotes":"Additional time needed."
-  },
-  
-{
-  "DessertName":"Chocolate Cupcakes",
-  "DessertDifficulty":"Easy",
-  "DessertImage":"Images/ChocolateCupcakes.png",
-  "DessertMakes":"16 Cupcakes",
-  "DessertID":4,
-  "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/17377/chocolate-cupcakes/",
-  "DessertTotalTime":"30 minutes"
-  "DessertPrepTime":"15 minutes",
-  "DessertBakeTime":"15 minutes",
-  "DessertNotes":"Simple tasty treat for any occasion."
-  },
+{"DessertName":"Derby Day Chocolate Chip Cookies","DessertDifficulty":"Easy","DessertImage":"https://github.com/devildawg3475/IT315JsonData/blob/master/Images/DerbyChocolateChipCookies.png","DessertMakes":"5 dozen","DessertID":1,"DessertRecipeWebsite":"https://www.allrecipes.com/recipe/106546/derby-day-chocolate-chip-cookies/","DessertTotalTime":"30 minutes","DessertPrepTime":"20 minutes","DessertBakeTime":"10 minutes","DessertNotes":"Simple and tasty treat."},
+{"DessertName":"Mrs.Sigg's Snickerdoodles","DessertDifficulty":"Intermediate","DessertImage":"Images/SnickerdoodleCookies.png","DessertMakes":"4 dozen","DessertID":2,"DessertRecipeWebsite":"https://www.allrecipes.com/recipe/10687/mrs-siggs-snickerdoodles/","DessertTotalTime":"1 hour","DessertPrepTime":"20 minutes","DessertBakeTime":"10 minutes","DessertNotes":"Allow for extra time."},  
+{"DessertName":"Best Oatmeal Cookies","DessertDifficulty":"Intermediate","DessertImage":"Images/OatmealCookies.png","DessertMakes":"3 dozen","DessertID":3,"DessertRecipeWebsite":"https://www.allrecipes.com/recipe/16677/the-best-oatmeal-cookies/","DessertTotalTime":"1.5 hours""DessertPrepTime":"15 minutes","DessertBakeTime":"12 minutes","DessertNotes":"Additional time needed."},
+{"DessertName":"Chocolate Cupcakes","DessertDifficulty":"Easy","DessertImage":"Images/ChocolateCupcakes.png","DessertMakes":"16 Cupcakes","DessertID":4,"DessertRecipeWebsite":"https://www.allrecipes.com/recipe/17377/chocolate-cupcakes/","DessertTotalTime":"30 minutes","DessertPrepTime":"15 minutes","DessertBakeTime":"15 minutes","DessertNotes":"Simple tasty treat for any occasion."},
   
 {
   "DessertName":"Vanilla Cupcakes",
@@ -64,7 +17,7 @@
   "DessertTotalTime":"35 minutes"
   "DessertPrepTime":"15 minutes",
   "DessertBakeTime":"20 minutes",
-  "DessertNotes":"Simple delicious treat for that special occassion "
+  "DessertNotes":"Simple delicious treat for that special occassion."
   },
   
 {
