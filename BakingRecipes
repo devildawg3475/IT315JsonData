@@ -9,7 +9,10 @@
   "DessertMakes":"5 dozen",
   "DessertID":1,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/106546/derby-day-chocolate-chip-cookies/",
-  "DessertTotalTime":"30 minutes"
+  "DessertTotalTime":"30 minutes",
+  "DessertPrepTime":"20 minutes",
+  "DessertBakeTime":"10 minutes",
+  "DessertNotes":"Simple and tasty treat."
   },
 
 {
@@ -19,7 +22,10 @@
   "DessertMakes":"4 dozen",
   "DessertID":2,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/10687/mrs-siggs-snickerdoodles/",
-  "DessertTotalTime":"1 hour"
+  "DessertTotalTime":"1 hour",
+  "DessertPrepTime":"15 minutes",
+  "DessertBakeTime":"12 minutes",
+  "DessertNotes":"Additional time needed."
   },  
 
 {
@@ -29,7 +35,10 @@
   "DessertMakes":"3 dozen",
   "DessertID":3,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/16677/the-best-oatmeal-cookies/",
-  "DessertTotalTime":"1.5 hours"
+  "DessertTotalTime":"1.5 hours",
+  "DessertPrepTime":"20 minutes",
+  "DessertBakeTime":"10 minutes",
+  "DessertNotes":"Allow for extra time."
   },
 
 {
@@ -39,7 +48,10 @@
   "DessertMakes":"16 Cupcakes",
   "DessertID":4,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/17377/chocolate-cupcakes/",
-  "DessertTotalTime":"30 minutes"
+  "DessertTotalTime":"30 minutes",
+  "DessertPrepTime":"15 minutes",
+  "DessertBakeTime":"15 minutes",
+  "DessertNotes":"Simple tasty treat for any occasion."
   },
   
 {
@@ -49,7 +61,10 @@
   "DessertMakes":"12 Cupcakes",
   "DessertID":5,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/157877/vanilla-cupcake/",
-  "DessertTotalTime":"35 minutes"
+  "DessertTotalTime":"35 minutes",
+  "DessertPrepTime":"15 minutes",
+  "DessertBakeTime":"20 minutes",
+  "DessertNotes":"Simple delicious treat for that special occasion."
   },
   
 {
@@ -59,7 +74,11 @@
   "DessertMakes":"24 Cupcakes",
   "DessertID":6,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/83814/peanut-butter-cupcakes/",
-  "DessertTotalTime":"22 minutes"},
+  "DessertTotalTime":"22 minutes",
+  "DessertPrepTime":"10 minutes",
+  "DessertBakeTime":"12 minutes",
+  "DessertNotes":"Like a peanut butter cookie in cupcake form."
+  },
   
 {
   "DessertName":"Marble Cake",
@@ -68,7 +87,10 @@
   "DessertMakes":"1 ~ 8\" Round Cake",
   "DessertID":7,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/7891/marble-cake-i/",
-  "DessertTotalTime":"55 minutes"
+  "DessertTotalTime":"55 minutes",
+   "DessertPrepTime":"20 minutes",
+  "DessertBakeTime":"35 minutes",
+  "DessertNotes":"Makes for a sophisticated dessert."
   },
   
 {
@@ -78,7 +100,10 @@
   "DessertMakes":"1 ~ 4 Layer 9\" Round Cake",
   "DessertID":8,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/22312/lemon-raspberry-white-chocolate-mousse-cake/",
-  "DessertTotalTime":"1 hour 15 minutes"
+  "DessertTotalTime":"1 hour 15 minutes",
+  "DessertPrepTime":"30 minutes",
+  "DessertBakeTime":"45 minutes",
+  "DessertNotes":"Beautiful and delicious."
   },
   
 {
@@ -88,7 +113,10 @@
   "DessertMakes":"1 - 10\" Bundt Cake",
   "DessertID":9,
   "DessertRecipeWebsite":"https://www.allrecipes.com/recipe/7480/chocolate-rum-cake/",
-  "DessertTotalTime":"1 hour 25 minutes"
+  "DessertTotalTime":"1 hour 25 minutes",
+  "DessertPrepTime":"25 minutes",
+  "DessertBakeTime":"60 minutes",
+  "DessertNotes":"Definitely one of the tastiest bundt cakes."
   },
   
 ],
